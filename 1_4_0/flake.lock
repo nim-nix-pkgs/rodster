@@ -36,11 +36,11 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-rodster-main": "src-rodster-main",
+        "src-rodster-1_4_0": "src-rodster-1_4_0",
         "xam": "xam"
       }
     },
-    "src-rodster-main": {
+    "src-rodster-1_4_0": {
       "flake": false,
       "locked": {
         "lastModified": 1653340620,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "j-a-s-d",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/1.4.0",
         "repo": "rodster",
         "type": "github"
       }
